@@ -11,7 +11,7 @@ for (let i = 1; i < 101; i++) {
         col.classList.add("bg-warning")
     }
     else if (i % 3 === 0) {
-        result = "Frizz"
+        result = "Fizz"
         col.classList.add("bg-primary")
     }
     else if (i % 5 === 0) {
